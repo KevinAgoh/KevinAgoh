@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kévin</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-<p align="left"> <a href="https://twitter.com/kevin_agh" target="blank"><img src="https://img.shields.io/twitter/follow/kevin_agh?logo=twitter&style=for-the-badge" alt="kevin_agh" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, Ruby on Rails and React**
 
-- 📫 How to reach me **kevin.agoh@outlook.com**
+- 📫 How to reach me: **kevin.agoh@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevin-agoh/](https://www.linkedin.com/in/kevin-agoh/)
 
