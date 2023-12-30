@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, Ruby on Rails and React**
 
-- 📫 How to reach me: **kevin.agoh@outlook.com**
+- 📫 How to reach me: **kevinkadupkeagoh@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevin-agoh/](https://www.linkedin.com/in/kevin-agoh/)
 
